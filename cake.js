@@ -66,5 +66,5 @@ setTimeout(() => {
 }, 100);
 
 document.getElementById("next").onclick = function () {
-    window.location.href = "index.html";
+    window.location.href = "Birthday.html";
 };
